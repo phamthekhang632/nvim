@@ -1,11 +1,7 @@
-# Enable transparent background
-Check if default background is used
-```
-:hi Normal
-```
-To disbale
-
-```
-:hi Normal guibg=NONE ctermbg=NONE
+```sh
+sudo apt install nodejs
+sudo npm install -g npm@.11.10.1
+sudo npm install -g tree-sitter-cli
+tree-sitter --version
 ```
 
