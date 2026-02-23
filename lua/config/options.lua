@@ -1,7 +1,7 @@
 -- Sync clipboard between OS and Neovim.
 vim.schedule(function() vim.o.clipboard = 'unnamedplus' end)
 
-vim.opt.expandtab = true
+vim.opt.expandtab = false
 local tab = 2
 vim.opt.shiftwidth = tab
 vim.opt.tabstop = tab
