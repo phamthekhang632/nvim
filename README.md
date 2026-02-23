@@ -5,3 +5,11 @@ sudo npm install -g tree-sitter-cli
 tree-sitter --version
 ```
 
+https://github.com/BurntSushi/ripgrep
+```sh
+sudo apt install ripgrep
+
+```sh
+sudo apt install xclip
+```
+
